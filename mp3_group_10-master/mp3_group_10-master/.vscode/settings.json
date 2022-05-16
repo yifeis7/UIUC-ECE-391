@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "ece391support.h": "c",
+        "*.s": "c",
+        "ece391syscall.h": "c",
+        "limits": "c",
+        "syscall_handler.h": "c",
+        "x86_desc.h": "c",
+        "terminal.h": "c",
+        "types.h": "c",
+        "lib.h": "c",
+        "scheduler.h": "c"
+    }
+}
